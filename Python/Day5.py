@@ -1,4 +1,2 @@
-a ="Atharva"
-print (a)
-b="Enter your name"
-print (b)
+# escape sequence charater
+print("hey i am harry\nand he is atharva")
