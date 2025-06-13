@@ -1,8 +1,8 @@
 #calculator
-a=4
-b=3
+a=int(input("Enter your number"))
+b=int(input("enter your second number"))
 print (a+b)
-print (a-b)
-print (a*b)
-print (a/b)
-print (a//b)
+c = a - b
+print("Subtraction:", c)
+d= a * b
+print (d)
