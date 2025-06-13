@@ -4,7 +4,7 @@ print("Hello " +a)
 st='''hi i am Atharva" ilove 
 apple'''
 print(st)
-
+# string are immutable
 # string slicing
 fruit=("mango")
 len=print(len(fruit))
