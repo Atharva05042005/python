@@ -1,0 +1,7 @@
+marks1=[93.4, 98.5, 99.9,78.4]
+print (marks1)
+print (marks1[0])
+Student=[ "Sharda" ,72, 33,"Pune" ]
+print(Student[1])
+Student[0]=3
+print(Student)
