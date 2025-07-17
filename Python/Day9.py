@@ -6,6 +6,9 @@ apple'''
 print(st)
 # string are immutable
 # string slicing
+
+
+
 fruit=("mango")
 len=print(len(fruit))
 print(fruit[0:4])
